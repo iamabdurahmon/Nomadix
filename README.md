@@ -4,7 +4,7 @@ A modern, fully responsive travel agency landing page featuring a clean UI, smoo
 
 ## 🚀 Live Demo
 
-[View Project Live](#)
+[View Project Live](https://nomadix-xi.vercel.app/)
 
 ## ✨ Features
 
