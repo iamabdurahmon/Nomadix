@@ -40,4 +40,4 @@ The website is organized into the following sections:
 
 ## ⚙️ Setup
 
-View creator's portfolio web-site: -[Click](https://abdurahmonrahimov.uz/)
+View creator's portfolio web-site: - [click here](https://abdurahmonrahimov.uz/)
